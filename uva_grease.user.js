@@ -6,7 +6,7 @@
 // @updateURL		https://github.com/sapienzareps/unitelmavideoaccelerator/raw/master/uva_grease.user.js
 // @downloadURL		https://github.com/sapienzareps/unitelmavideoaccelerator/raw/master/uva_grease.user.js
 // @grant    		GM_addStyle 
-// @version		4
+// @version		4.1
 // ==/UserScript==
 
 
@@ -57,6 +57,33 @@ var cdnvideos = {
 	51633: "!4To0WYKR!Dinr0sqBdeP83FqribVfFjY67bCCDyAKy1-mwcgrg4k",
 	51635: "!xO5xkRzD!w00lrMQenbXx8VjqJGN2NktrShpB4tfMHTM0Z6Gp4SM",
 	// Manca qui: 51634
+	
+	//Sistemi Digitali
+	51230: "!5GBXmKKb!TCRtA5BSyHnwlgyI31m5Nz-k-IJ6s3lybKXjGCZnDRQ",
+	51231: "!1TAXSALK!Dq9HuVbxWhhWwhcueAKWce2RhZ0XUhD2Lgt35CXhx-Y",
+	51232: "!8OJTESqT!Aj3Exz-MFXaSP6J-3oKg8eLT9JIZ5GdccfYtcGM7To4",
+	51233: "!AfJHCYxC!QFBvCFevjM0K5tVpmXZ-Dls034-nbNI-FhQR7CBfIgw",
+	51234: "!NeRTESyK!nk-iUbv7a5UPwF4a0R6CEuP-SSI-9AJnsC1_C4FD0PI",
+	51235: "!lKIF2YTQ!XslLu69mzm3OuXMIE8jGP4vXBs-pz5I62oWoXnU8XsI",
+	51236: "!xGYVSaqT!FdYrur0cOuOdNFE15pCSfhkhU0WlHz7jSazt0Nnrdv4",
+	51237: "!ZOBHEQKR!F7GhKuYKoHOJnStSn12gcBWTb8MhCr1Q3_cDs8PsIFo",
+	51238: "!RSZzhIoA!GYh8cXRMjKNr9XiaF6NIGA000NOa_FTpIrlBfFdSSSc",
+	51239: "!ROZ3VCrQ!50C1NgZ-VnSA1nV7BsY93oDI7P0kzH2fct3mJCOWNEc",
+	51240: "!sSZ3XKAL!0VQxHSu19u498qAG0YHBvkfNCz63qHZHmBBLHh4wpUc",
+	51241: "!FLRjACJR!UGrFAGsydru_ErFRQB_YATyu1jb1PqBvoTrYxbbEqqg",
+	51242: "!BGITRY6a!mbvH4fR9uNa-lrQt2L0zm2qxMj3D8uOD3kcSG7Pj85s",
+	51243: "!lORRBCDC!_ay7oNQFvSNfszA1POz-u-ErKINQraplVqzUIYUrUfY",
+	51244: "!NKIjFYbT!OG4MOzeoYhKeM49lgh8APK9onBUHMKa3Jqzh5zKGe-4",
+	51245: "!IHRHFQpK!9LwDfT5u77egTHaLVibq97TvbFNmzK1Y1tJhUZt_gnc",
+	51246: "!heBBxYiD!r9LzpFcIstwjYyQWstXv5h9CxrqIq-QQ-_JeZ0gRvro",
+	51247: "!JCRDlQYY!fo4put3ABN3bFuAaxLYiaMJNFts5m_Z_ZhORR2r-Fbo",
+	51248: "!MfIjwAwL!UHsndr9m12sMRcx-MEYdk1m9yJzgJXicaqGpjXX7SSQ",
+	51249: "!hfJlCQhJ!UAc4_vGKAuUHq0e-Qbo8VITItw6tBOUcoqBTM0QCYfg",
+	51250: "!UeJlkK4D!HZVZHpvy3w8PGCmwFqWfHOoZ8d5Nsz4oexIn9ylY6tY",
+	51251: "!9bQnGKKS!JsrrgFVuTEZkutLWJM4jdiJCwo2OjQ1rNixscN0dTKY",
+	51252: "!9eQH2SAB!kAv8xVhCaKyH4R0bV8G-j0104MMAtl3JW0xcUrsJauQ",
+	51253: "!lKQhwYqC!oH1dJZQeejY9L27XibgdQmLKDoGanAlV5gMDtuRI808",
+	
 
 	// Metodi matematici
 	// Manca qui:: 51364, 51366, 51367, 51369, 56102, 51374
